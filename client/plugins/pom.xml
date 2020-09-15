@@ -24,8 +24,6 @@
 
         <module>mybatis-record</module>
         <module>mybatis-mock</module>
-        <module>simple-hotfix</module>
-        <module>spring-plugin</module>
 
     </modules>
 
